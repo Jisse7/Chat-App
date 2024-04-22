@@ -24,4 +24,5 @@ Technologies utilisées :
 
 Comment utiliser l'app → Démarrer les deux serveurs (Server et ServeurPourImage) puis démarrer autant d'instances de la classe 'Inscription' que nécessaire.
 
-![Messagerie](https://github.com/Jisse7/Chat-App/assets/105201176/73413521-5233-4bba-9c9a-4e3895473ecf)
+![Messagerie](https://github.com/Jisse7/Chat-App/assets/105201176/7b51507e-6542-46fe-bee0-3cbb704e45be)
+
